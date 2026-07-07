@@ -1,2 +1,20 @@
-# sunaina
-Aspiring Software Developer | B.Tech in Electronics &amp; Communication Engineering | Passionate about Python, SQL, HTML, CSS, and AI. Continuously learning, building projects, and improving my coding skills.
+# Hi, I'm Sunaina 👋
+
+## About Me
+🎓 B.Tech in Electronics & Communication Engineering
+
+💻 Aspiring Software Developer
+
+currently learning Python, SQL, HTML, CSS, and Git
+
+🚀 Interested in AI and Web Development
+
+## Skills
+- Python
+- SQL
+- HTML
+- CSS
+- Git & GitHub
+
+## Contact
+📧 Email: sunainabhagavathula8@gmail.com
